@@ -23,7 +23,9 @@
  The primary objective of this project is to analyze and visualize the airline data to gain insights into flight
  operations, passenger management, and ticketing. The project will utilize various Power BI features to transform,
  model, and visualize data, ultimately creating a comprehensive dashboard for decision-making.
-Tasks:
+ 
+ Tasks which is used in project are given below:
+ 
  1. Data Extraction and Transformation in Power Query:- Extract data from the provided CSV files and load them into Power BI. Perform data cleaning activities such as removing duplicates, handling missing values, and formatting
  columns appropriately.
  2. Conditional and Custom Columns:- Create a conditional column to classify flights as “best” and “to be improved” based on the status column of the flight information dataset(best for on time and to be improved for the rest).
